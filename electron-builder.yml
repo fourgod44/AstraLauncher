@@ -15,7 +15,7 @@ extraResources:
 
 publish:
   provider: 'generic'
-  url: 'http://210.204.157.130/workspace/'
+  url: 'http://astrapixelmon.kro.kr/workspace/'
 
 # Windows Configuration
 win: 
